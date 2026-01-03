@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.weather-card {
+  width: 100%;
+  padding: 16px;
+}
+@media (min-width: 768px) {
+  .weather-card {
+    width: 420px;
+    margin: auto;
+  }
+}
+@media (min-width: 1024px) {
+  .weather-card {
+    width: 480px;
+    background-image: linear-gradient(bla);
+  }
+}
