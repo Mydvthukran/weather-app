@@ -1,13 +1,12 @@
-import { Search } from 'lucide-react'
 import React from 'react'
 
 const SearchBar = () => {
   return (
     <div className="search-bar">
+      <Search />
       
+      <input type="text" placeholder="Search..." />
       
-      <input className='search' type="text" placeholder="Search..." />
-      <Search size={20} strokeWidth={1} />
     </div>
   )
 }

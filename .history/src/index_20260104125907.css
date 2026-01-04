@@ -59,19 +59,10 @@ body {
 .search-bar {
   display: flex;
   align-items: center;
-  justify-content: center;
   gap: 8px;
   margin-top: 20px;
   padding: 8px 12px;
   border-radius: 8px;
   background-color: #ffffffaa;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-}
-
-.search {
-  flex: 1;
-  border: none;
-  outline: none;
-  font-size: 16px;
-  background: transparent;
 }

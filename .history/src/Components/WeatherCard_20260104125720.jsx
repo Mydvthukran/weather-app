@@ -4,7 +4,7 @@ import SearchBar from './SearchBar'
 const WeatherCard = () => {
   return (
     <div className='weather-card'>
-        
+        WeatherCard
         
           <SearchBar />
       

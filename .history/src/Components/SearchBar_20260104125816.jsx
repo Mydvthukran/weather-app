@@ -6,8 +6,8 @@ const SearchBar = () => {
     <div className="search-bar">
       
       
-      <input className='search' type="text" placeholder="Search..." />
-      <Search size={20} strokeWidth={1} />
+      <input type="text" placeholder="Search..." />
+      
     </div>
   )
 }

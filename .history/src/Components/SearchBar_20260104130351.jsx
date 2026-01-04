@@ -6,7 +6,7 @@ const SearchBar = () => {
     <div className="search-bar">
       
       
-      <input className='search' type="text" placeholder="Search..." />
+      <input cla type="text" placeholder="Search..." />
       <Search size={20} strokeWidth={1} />
     </div>
   )
