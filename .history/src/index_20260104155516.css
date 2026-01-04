@@ -117,18 +117,17 @@ body {
 }   
  .temperature {
   font-size: 64px;
-  font-weight: semi-bold;
+  font-weight: bold;
   text-align: center;
   margin: 10px 0;
 }
 .weather-details {
   display: flex;
   justify-content: center;
-
   align-items: center;
   margin: 20px;
   padding: 10px;
-  border: 12px;
+  border-radius: 12px;
   background-color: #ffffffaa;
 
 }

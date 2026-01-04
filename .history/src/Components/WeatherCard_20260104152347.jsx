@@ -1,6 +1,5 @@
 import React from 'react'
 import SearchBar from './SearchBar'
-import WeatherDetails from './WeatherDetails'
 
 const WeatherCard = () => {
   return (
@@ -8,14 +7,7 @@ const WeatherCard = () => {
         
         
           <SearchBar />
-          <div className='icon'>
-            icon
-          </div>
-          <div className='temperature'>
-            16°C
-          </div>
-
-          <WeatherDetails/>
+          <wea
       
     </div>
   )

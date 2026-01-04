@@ -98,46 +98,8 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-   margin: 20px 160px 20px 160px;
+  margin-top: 20px;
+  background-color: blue;
+  width: 50px;
+}
 
-  width:auto;
-  height: auto;
-  border-radius: 50%;
-  padding: 10px;
-  background-color: #ffffffaa; }
-
-.icon svg {
-  color: #333;
-}
-.icon svg:hover {
-  color: #000;  
-}   
-.icon svg:active {
-  transform: scale(0.95); 
-}   
- .temperature {
-  font-size: 64px;
-  font-weight: semi-bold;
-  text-align: center;
-  margin: 10px 0;
-}
-.weather-details {
-  display: flex;
-  justify-content: center;
-
-  align-items: center;
-  margin: 20px;
-  padding: 10px;
-  border: 12px;
-  background-color: #ffffffaa;
-
-}
-.weather-details svg {
-  color: #333;
-}
-.weather-details svg:hover {
-  color: #000;    
-}
-.weather-details svg:active {
-  transform: scale(0.95); 
-}

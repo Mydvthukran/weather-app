@@ -4,7 +4,7 @@ const WeatherDetails = () => {
   return (
     <div className='weather-details'>
       <Waves size={28} strokeWidth={1} />
-      humidity: 78% 
+      hu
     </div>
   )
 }

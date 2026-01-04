@@ -8,14 +8,7 @@ const WeatherCard = () => {
         
         
           <SearchBar />
-          <div className='icon'>
-            icon
-          </div>
-          <div className='temperature'>
-            16°C
-          </div>
-
-          <WeatherDetails/>
+          <WeatherDetails/
       
     </div>
   )

@@ -124,11 +124,11 @@ body {
 .weather-details {
   display: flex;
   justify-content: center;
-
+  f
   align-items: center;
   margin: 20px;
   padding: 10px;
-  border: 12px;
+  border-radius: 12px;
   background-color: #ffffffaa;
 
 }

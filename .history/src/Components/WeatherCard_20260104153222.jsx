@@ -11,7 +11,7 @@ const WeatherCard = () => {
           <div className='icon'>
             icon
           </div>
-          <div className='temperature'>
+          <div className='temprature'>
             16°C
           </div>
 
